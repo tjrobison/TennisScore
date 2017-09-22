@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="table_background">#6f6f6f</color>
+    <color name="table_foreground">#8124b5</color>
+    <color name="table_foreground_dark">#7625d5</color>
+</resources>

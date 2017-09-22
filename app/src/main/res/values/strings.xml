@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TenisScore</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="p1_score">Player 1</string>
+    <string name="p1_s1_score">0</string>
+    <string name="p1_s2_score">0</string>
+    <string name="p1_s3_score">0</string>
+    <string name="p1_game_score">0</string>
+
+    <string name="p2_score">Player 2</string>
+    <string name="p2_s1_score">0</string>
+    <string name="p2_s2_score">0</string>
+    <string name="p2_s3_score">0</string>
+    <string name="p2_game_score">0</string>
+    <string name="set_1_label">Set 1</string>
+    <string name="player_names_label">Players</string>
+    <string name="set_2_label">Set 2</string>
+    <string name="set_3_label">Set 3</string>
+    <string name="game_score_label">Score</string>
+    <string name="p1_name">Player 1 Name</string>
+    <string name="p2_name">Player 2 Name</string>
+    <string name="match_options_menu_title">Match Options</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="reset_save_button_label">Reset + Save</string>
+</resources>
